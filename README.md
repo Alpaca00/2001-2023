@@ -4,7 +4,7 @@ This project is a **recreation of my old projects**, updated with **modern techn
 
 The goal of this project is to demonstrate how **technology has evolved** and how much simpler it is to implement these ideas today.
 
-**Website**: [https://www.little-game.uno](https://www.little-game.uno)
+**Website**: [https://little-game.uno](https://little-game.uno)
 
 ---
 
