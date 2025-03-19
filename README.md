@@ -6,26 +6,17 @@ The goal of this project is to demonstrate how **technology has evolved** and ho
 
 **Website**: [https://little-game.uno](https://little-game.uno)
 
----
 
-## **Technologies Used**
+### **Technologies Used**
 
 - [Svelte](https://svelte.dev) – The cool new way to build a little startup!
 - [Firebase](https://firebase.google.com) – For hosting this awesome project!
 
----
 
-### **Warning!**
-This project may contain **nostalgic** references to the early days of the internet, with retro designs and fun vibes from the **2000s**. Expect **GIFs**, **neon text**, and a whole lot of **retro fun!**
+### **Project Status**
 
-**Enjoy the ride, traveler!**
-
-
---- 
-
-### **Contributions are welcome!**
-
-Currently, the years 2012-2015 are unavailable, but I will be adding more years soon.
+- **✔** **2001-2003** – Fun vibes of the early 2000s.
+- **✔** **2024-2026** – Cutting-edge website utilizing Natural Language Toolkit (NLTK) for text analysis.
 
 
 

@@ -1,6 +1,5 @@
 <script>
     import { onMount } from "svelte";
-    import TopHeader from "./components/TopHeader.svelte";
     import Modal from "./components/01-03/Modal.svelte";
     import RetroButton from "./components/01-03/RetroButton.svelte";
     import MarqueeAd from "./components/01-03/MarqueeAd.svelte";
@@ -38,7 +37,6 @@
     });
 </script>
 
-<TopHeader />
 <div class="container">
     <div class="header">
         💾 WELCOME, NET TRAVELER! ENJOY YOUR STAY IN CYBERSPACE! 💾
