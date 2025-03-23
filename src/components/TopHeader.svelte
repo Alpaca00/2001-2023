@@ -7,7 +7,9 @@
     { label: "2004-2007", disabled: true },
     { label: "2008-2011", disabled: true },
     { label: "2012-2015", disabled: true },
-    { label: "2016-2019", disabled: true },
+    { label: "2016-2018", disabled: true },
+    { label: "2019", disabled: false },
+    { label: "2020", disabled: false },
     { label: "2021-2023", disabled: true },
     { label: "2024-2026", disabled: false },
   ];

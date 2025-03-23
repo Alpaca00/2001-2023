@@ -16,6 +16,8 @@ The goal of this project is to demonstrate how **technology has evolved** and ho
 ### **Project Status**
 
 - **✔** **2001-2003** – Fun vibes of the early 2000s.
+- **✔** **2019** – A playful response for a 403 error.
+- **✔** **2020** – Something is missing or hidden.
 - **✔** **2024-2026** – Cutting-edge website utilizing Natural Language Toolkit (NLTK) for text analysis.
 
 
